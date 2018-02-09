@@ -13,6 +13,6 @@ Game Fever includes..<br>
 ~ self-assignable roles; 👆<br>
 ~ Movie Nights; 🎥<br>
 ~ Awesome members; 👨 👩***<br>
-__________________________________
+__________________________________<br>
 ***Join the Family! 💗<br>
 https://discord.gg/XhwHnMD***
