@@ -13,7 +13,6 @@ Game Fever includes..
 ~ self-assignable roles; :point_up:
 ~ Movie Nights; :movie_camera:
 ~ Awesome members; :man: :woman:
-————————
-————————
+__________________________________
 Join the Family! :heart:
 https://discord.gg/XhwHnMD***
