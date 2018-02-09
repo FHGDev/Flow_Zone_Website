@@ -12,7 +12,7 @@ Game Fever includes..
 ~ 24/7 Radio; :musical_note:
 ~ self-assignable roles; :point_up:
 ~ Movie Nights; :movie_camera:
-~ Awesome members; :man: :woman:
+~ Awesome members; :man: :woman:***
 __________________________________
-Join the Family! :heart:
+***Join the Family! :heart:
 https://discord.gg/XhwHnMD***
