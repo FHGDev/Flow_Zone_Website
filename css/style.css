@@ -3,5 +3,6 @@ body {
 }
 
 #creds {
-  position: bottom center;
+  position: absolute;
+  left: 100px;
 }
