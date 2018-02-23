@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://i.imgur.com/nadpOGn.jpg");
+  background-image: url("https://i.imgur.com/nadpOGn.png");
   background-size: cover;
 }
 
@@ -8,7 +8,7 @@ body {
   left: 100px;
 }
 
-h1 {
+h1, p {
   color: white;
   font-family: Verdana;
 }
