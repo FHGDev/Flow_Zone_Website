@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flow Zone Bot Panel</title>
+    <script src="discordjs.js"></script>
+    <script>
+      const bot = new Discord.Client()
+      bot.login('token')
+      
+      bot.on('ready', () => console.log("READY!"))
+      
+      function setActivity(game, type) {
+        bot.user.setActivity(game, {type: type})
+        console.log("Changed activity")
+      }
+    </script>
+  </head>
+  <body>
+    <select id="status">
+      <option value="WATCHING">Watching</option>
+      <option value="STREAMING">Streaming</option>
+      <option value="LISTENING">Listening to</option>
+      <option value="PLAYING">Playing</option>
+    </select>&nbsp;
+    <input type=text id="txt" required>
+    <br><input type=button value="Submit" onclick="setActivity(document.getElementById('status').value, document.getElementById('txt').value)">
+  </body>
+</html>
